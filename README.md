@@ -5,3 +5,12 @@
   - Lớp : CNTT5 - K13
   - facebook : [Trí NGuyễn](https://www.facebook.com/viettriit2110)
   - sđt : 0383087803 
+## 
+ ```
+ #include<bits/stdc++.h>
+ using namespace std;
+ 
+ int main(){
+     cout << "hello word";
+ }
+ ```
